@@ -1,0 +1,37 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+6,Thompson,CA,10.56,overcast clouds,55.7435,-97.8558,Burntwood Hotel
+23,Khatanga,RU,9.0,overcast clouds,71.9667,102.5,"""Khatanga"""
+49,Deputatskiy,RU,6.6,overcast clouds,69.3,139.9,Baza Otdykha
+50,Flin Flon,CA,18.82,overcast clouds,54.7682,-101.865,Victoria Inn Flin Flon
+67,Longyearbyen,SJ,17.44,broken clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+74,Great Falls,US,16.25,overcast clouds,47.5002,-111.3008,La Quinta Inn & Suites by Wyndham Great Falls
+89,Pevek,RU,8.73,overcast clouds,69.7008,170.3133,Severnoye Zoloto
+90,Talnakh,RU,29.21,light snow,69.4865,88.3972,Talnakh Hotel
+123,High Prairie,CA,17.87,overcast clouds,55.4334,-116.4858,Royal Star Motor Inn
+128,Cheyenne,US,22.77,clear sky,41.14,-104.8203,The Historic Plains Hotel & Restaurant
+131,Bilibino,RU,25.3,overcast clouds,68.0546,166.4372,Gostinitsa Severyanka
+151,Cherskiy,RU,13.59,overcast clouds,68.75,161.3,Gostinitsa
+156,Sisimiut,GL,11.73,scattered clouds,66.9395,-53.6735,Hotel Sisimiut
+220,Kuusamo,FI,26.64,broken clouds,65.9667,29.1833,Hotel Kuusanka
+222,High Level,CA,14.11,clear sky,58.5169,-117.136,Days Inn by Wyndham High Level
+242,The Pas,CA,24.82,broken clouds,53.8251,-101.2541,Wescana Inn
+256,Paamiut,GL,25.92,overcast clouds,61.994,-49.6678,Pistut
+258,Tigil,RU,27.46,light snow,57.8,158.6667,Tigil'
+267,Dauphin,CA,24.94,overcast clouds,51.1494,-100.0502,Canway Inn & Suites
+313,Norman Wells,CA,19.44,light snow,65.282,-126.8329,Heritage Hotel
+316,Moose Factory,CA,28.4,overcast clouds,51.2585,-80.6094,Moosonee Lilypad
+353,Whitehorse,CA,27.37,few clouds,60.7161,-135.0538,The Sternwheeler Hotel & Conference Centre
+366,Haines Junction,CA,26.55,few clouds,60.7522,-137.5108,Parkside Inn
+371,Sioux Lookout,CA,26.67,overcast clouds,50.1001,-91.917,Knobby's Fly-In Camps
+378,Peace River,CA,19.71,few clouds,56.2501,-117.286,BCMInns - Peace River
+448,La Ronge,CA,21.45,overcast clouds,55.1001,-105.2842,Northland Motor Hotel
+474,Kiruna,SE,18.52,few clouds,67.8557,20.2251,Camp Ripan
+493,Maniitsoq,GL,16.52,clear sky,65.4167,-52.9,Hotel Heilmann Lyberth
+534,Eston,CA,17.73,overcast clouds,51.1501,-108.7514,Hearthside Place B&B
+543,Pierre,US,25.86,overcast clouds,44.3683,-100.351,Ramkota Hotel
+558,Vegreville,CA,20.1,overcast clouds,53.5001,-112.0518,Wild Rose Inn
+559,Khandyga,RU,29.91,light snow,62.6667,135.6,Apel'sin
+611,North Platte,US,28.29,clear sky,41.1239,-100.7654,"Holiday Inn Express & Suites North Platte, an IHG Hotel"
+659,Edson,CA,21.34,clear sky,53.5835,-116.4356,"Holiday Inn Express & Suites Edson, an IHG Hotel"
+664,Price,US,29.12,clear sky,39.5994,-110.8107,National 9 - Price River Inn
+688,Anadyr,RU,27.1,light snow,64.75,177.4833,Отке17.ру — жильё для командированных
